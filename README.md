@@ -6,7 +6,7 @@
     "
   >
     <div style="display: flex; height: 150px; justify-content: end">
-      <h2> سلام  من نفیسه چرمچی هستم </h2>
+      <h3> سلام  من نفیسه چرمچی هستم </h3>
       <img
         src="https://github.com/nafiseh-charmchi/nafiseh-charmchi/blob/main/images/labkhandMonaliza.gif"
         alt="oops!"
@@ -25,11 +25,11 @@
         />
       </div>
       <p style="align-self: center; font-size: 1.25rem; font-weight: bold">
-        هدفم اینکه یک فول استک ماهر بشم و درحال حاظر روی مهارت فرانتم کار میکنم
+        "هدفم اینکه یک فول استک ماهر بشم و درحال حاظر روی مهارت فرانتم کار میکنم"
       </p>
     </div>
     <div style="height: 200px; display: flex; justify-content: center">
-      <h1 style="align-self: center">مهارت های من</h1>
+      <h3 style="align-self: center"> از تجربیاتم : </h3> 
       <img
         src="https://github.com/nafiseh-charmchi/nafiseh-charmchi/blob/main/images/chayi.gif"
         alt=""
@@ -105,7 +105,8 @@
     <hr style="width: 400px; margin-top: 20px;margin-bottom: 50px;" />
     <p style="text-align: center; font-size: 1.25rem; font-weight: bold">
       درصورتی که نظر یا انتقادی داشتین لطفا با من در میون بزارین
-     
+      <br>
+       nafisech513@gmail.com  
     </p>
   </body>
 </html>
