@@ -64,12 +64,6 @@
           style="width: 100px; height: 50px"
           ;
         />
-        <img
-        src="https://github.com/nafiseh-charmchi/nafiseh-charmchi/blob/main/images/next.jpg"
-        alt=""
-        style="width: 70px; height: 35px"
-        ;
-      />
       </div>
     </div>
     <hr style="width: 400px; margin-top: 20px" />
