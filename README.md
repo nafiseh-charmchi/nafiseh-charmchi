@@ -25,7 +25,7 @@
         />
       </div>
       <p style="align-self: center; font-size: 1.25rem; font-weight: bold">
-        "هدفم اینکه یک فول استک ماهر بشم و درحال حاظر روی مهارت فرانتم کار میکنم"
+        "هدفم اینکه یک برنامه نویس ماهر بشم و درحال حاظر روی مهارت فرانتم کار میکنم"
       </p>
     </div>
     <div style="height: 200px; display: flex; justify-content: center">
